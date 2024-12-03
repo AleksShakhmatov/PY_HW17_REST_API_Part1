@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="353cdce2-7202-419e-80a3-58fa261376d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PY_HW17_REST_API_Part1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/create_user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/delayed_users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/register_successful.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/register_unsuccessful.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas/update_user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_delete_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_get_delayed_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_get_not_found_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_post_create_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_register_successful.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_register_unsuccessful.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_update_user.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pXV9LB6ut2ErT2Z8gRsC7Yp6X3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for delete_user.test_delete_user.executor": "Run",
+    "Python tests.Python tests for test_api_reqres.test_delete_user.executor": "Run",
+    "Python tests.Python tests for test_api_reqres.test_get_not_found_singer_user.executor": "Run",
+    "Python tests.Python tests for test_api_reqres.test_get_user_list.executor": "Run",
+    "Python tests.Python tests for test_api_reqres.test_negative_post_register_unsuccessful.executor": "Run",
+    "Python tests.Python tests for test_api_reqres.test_positive_post_register_successful.executor": "Run",
+    "Python tests.Python tests for test_api_reqres.test_post_bad_request.executor": "Run",
+    "Python tests.Python tests for test_api_reqres.test_post_create_user.executor": "Run",
+    "Python tests.Python tests for test_api_reqres.test_put_update_user.executor": "Run",
+    "Python tests.Python tests for test_api_reqres1.test_positive_post_register_successful.executor": "Run",
+    "Python tests.Python tests for test_api_reqres2.test_get_user_list.executor": "Run",
+    "Python tests.Python tests for test_api_reqres2.test_get_user_list1.executor": "Run",
+    "Python tests.Python tests for test_api_reqres2.test_positive_post_register_successful.executor": "Run",
+    "Python tests.Python tests for test_create_user.test_create_new_user.executor": "Run",
+    "Python tests.Python tests for test_create_user.test_create_user.executor": "Run",
+    "Python tests.Python tests for test_create_user.test_delete_user.executor": "Run",
+    "Python tests.Python tests for test_create_user.test_get_user_list.executor": "Run",
+    "Python tests.Python tests for test_create_user.test_post_create_user.executor": "Run",
+    "Python tests.Python tests for test_create_user.test_schema_validate_from_file.executor": "Run",
+    "Python tests.Python tests for test_get_delayed_users.test_get_delayed_response.executor": "Run",
+    "Python tests.Python tests for test_get_list_users.test_get_delayed_response.executor": "Run",
+    "Python tests.Python tests for test_list_users.test_get_list_users.executor": "Run",
+    "Python tests.Python tests for test_list_users.test_get_user_list.executor": "Run",
+    "Python tests.Python tests for test_list_users.test_return_single_user.executor": "Run",
+    "Python tests.Python tests for test_not_found_user(get).test_get_not_found_singer_user.executor": "Run",
+    "Python tests.Python tests for test_not_found_user_get.test_get_not_found_singer_user.executor": "Run",
+    "Python tests.Python tests for test_post_create_user.test_delete_user.executor": "Run",
+    "Python tests.Python tests for test_post_create_user.test_post_create_user.executor": "Run",
+    "Python tests.Python tests for test_register_successful.test_positive_post_register_successful.executor": "Run",
+    "Python tests.Python tests for test_register_successful.test_successful_registration.executor": "Run",
+    "Python tests.Python tests for test_register_successful.test_unsuccessful_registration.executor": "Run",
+    "Python tests.Python tests for test_register_unsuccessful.test_post_register_unsuccessful.executor": "Run",
+    "Python tests.Python tests for test_register_unsuccessful.test_unsuccessful_registration.executor": "Run",
+    "Python tests.Python tests for test_update_user.test_update_user.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/AleksSh/PycharmProjects/PY_HW17_REST_API_Part1/tests"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AleksSh\PycharmProjects\PY_HW17_REST_API_Part1\tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AleksSh\PycharmProjects\PY_HW17_REST_API_Part1\tests" />
+      <recent name="C:\Users\AleksSh\PycharmProjects\PY_HW17_REST_API_Part1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_update_user.test_update_user">
+    <configuration name="Python tests for test_get_delayed_users.test_get_delayed_response" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PY_HW17_REST_API_Part1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_get_delayed_users.test_get_delayed_response&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_post_create_user.test_delete_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PY_HW17_REST_API_Part1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_post_create_user.test_delete_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_post_create_user.test_post_create_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PY_HW17_REST_API_Part1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_post_create_user.test_post_create_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_register_unsuccessful.test_post_register_unsuccessful" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PY_HW17_REST_API_Part1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_register_unsuccessful.test_post_register_unsuccessful&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_update_user.test_update_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PY_HW17_REST_API_Part1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_update_user.test_update_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_not_found_user.test_get_not_found_singer_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PY_HW17_REST_API_Part1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_not_found_user.test_get_not_found_singer_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_update_user.test_update_user" />
+        <item itemvalue="Python tests.Python tests for test_register_unsuccessful.test_post_register_unsuccessful" />
+        <item itemvalue="Python tests.Python tests for test_post_create_user.test_delete_user" />
+        <item itemvalue="Python tests.Python tests for test_post_create_user.test_post_create_user" />
+        <item itemvalue="Python tests.Python tests for test_get_delayed_users.test_get_delayed_response" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="353cdce2-7202-419e-80a3-58fa261376d6" name="Changes" comment="" />
+      <created>1732912255209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732912255209</updated>
+    </task>
+    <servers />
+  </component>
+</project>
