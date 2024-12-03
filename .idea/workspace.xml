@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="353cdce2-7202-419e-80a3-58fa261376d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PY_HW17_REST_API_Part1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/create_user.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/delayed_users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/register_successful.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/register_unsuccessful.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/update_user.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_delete_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_get_delayed_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_get_not_found_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_post_create_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_register_successful.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_register_unsuccessful.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_update_user.py" afterDir="false" />
-    </list>
+    <list default="true" id="353cdce2-7202-419e-80a3-58fa261376d6" name="Changes" comment="new code added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,6 +189,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732912255209</updated>
     </task>
+    <task id="LOCAL-00001" summary="new code added">
+      <option name="closed" value="true" />
+      <created>1733255555055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733255555055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new code added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new code added" />
   </component>
 </project>
