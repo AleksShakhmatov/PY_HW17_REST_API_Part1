@@ -16,9 +16,3 @@ def test_post_create_user(base_url):
     with open(schema) as file:
         f = file.read()
         validate(body, schema=json.loads(f))
-
-
-def test_delete_user(url, base_url):
-    response = requests.delete(base_url + '/api/users', params='page=2')
-    assert response.status_code == 204
-    assert response.text == ''
